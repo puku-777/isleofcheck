@@ -26,14 +26,10 @@
 
 # Lines
 - GWML: Great Western Mainline -- OKH MDH HVH PDW BBR SVG ARH
-  - LNWR Jumbos GT$n$ and five Gr1m style compartment coaches (90 pax per rake) GS$[5(n-1)+1,5n]$; seven sets to start out ($\forall~n\in[1,7]$)
+  - LNWR Jumbos GT*n* and five Gr1m style compartment coaches (90 pax per rake) GS*5(n-1)+1*..*5n*; seven sets to start out (for all n in [1,7])
 - KWL: Keswick Loop -- MDH WVC WTG KSW BBR
 - WCML: West Coast Mainline -- PDW CLT BCW AYW ARH
 - HLL: Highland Line -- CHL SDS PTL WTG SCN GYS CST AGT ABY
 - MLR: Midland Railway -- CLT BBR ABN CST
 - RMC: River Maiden Company -- CHL CLN MDH
 - CB: Chester Branch -- CLS CLN
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzM1ODI1OCwtMTkxMDExMjg4NiwtOT
-QxMzMwODY0XX0=
--->
