@@ -26,7 +26,7 @@
 
 # Lines
 - GWML: Great Western Mainline -- OKH MDH HVH PDW BBR SVG ARH
-  - LNWR Jumbos GT$n$ and Gr1m style compartment coaches GS$[5(n-1)+1,5n]$
+  - LNWR Jumbos GT$n$ and Gr1m style compartment coaches GS$[5(n-1)+1,5n]$; seven sets to start out
 - KWL: Keswick Loop -- MDH WVC WTG KSW BBR
 - WCML: West Coast Mainline -- PDW CLT BCW AYW ARH
 - HLL: Highland Line -- CHL SDS PTL WTG SCN GYS CST AGT ABY
@@ -34,6 +34,6 @@
 - RMC: River Maiden Company -- CHL CLN MDH
 - CB: Chester Branch -- CLS CLN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MDczMzExLC0xOTEwMTEyODg2LC05ND
-EzMzA4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI2NzA0MTcsLTE5MTAxMTI4ODYsLT
+k0MTMzMDg2NF19
 -->
