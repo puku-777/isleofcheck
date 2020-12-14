@@ -1,7 +1,10 @@
 # Cities
 - OKH: Oakham
+  - tramway with 1-trailer Ce 2/2 Schaffhausen trams
 - MDH: Maidenhead
+  - buses: Martini
 - HVH: Haverhill
+  - tramway with 2-trailer Ce 2/2 Schaffhausen trams
 - PDW: Paddock Wood
 - BBR: Boroughbridge
 - SVG: Stevenage
@@ -20,16 +23,22 @@
 - PTL: Porthleven
 - SDS: Southend-on-Sea
 - CLN: Colne
+  - buses: Martini
 - CLS: Chester-le-Street
+  - buses: don't remember though I just played
 - CHL: Chulmleigh
 - ABN: Ashburton
 
 # Lines
 - GWML: Great Western Mainline -- OKH MDH HVH PDW BBR SVG ARH
-  - LNWR Jumbos GT*n* and five Gr1m style compartment coaches (90 pax per rake) GS*5(n-1)+1*..*5n*; seven sets to start out (for all n in [1,7])
+  - LNWR Jumbos G*n* for all *n* in [1,2] (four digits); five Gr1m bogie coaches for 110 pax per rake
 - KWL: Keswick Loop -- MDH WVC WTG KSW BBR
 - WCML: West Coast Mainline -- PDW CLT BCW AYW ARH
 - HLL: Highland Line -- CHL SDS PTL WTG SCN GYS CST AGT ABY
 - MLR: Midland Railway -- CLT BBR ABN CST
 - RMC: River Maiden Company -- CHL CLN MDH
+  - single track
+  - LNWR Jumbo C*n* for *n*=1; rake of three Gr1m bogie coaches for 66 pax
 - CB: Chester Branch -- CLS CLN
+  - single track, catenary
+  - PRR MP54 for 18 pax
