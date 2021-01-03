@@ -1,17 +1,19 @@
 # Cities
 - OKH: Oakham
-  - tramway with 1-trailer Ce 2/2 Schaffhausen trams
+  - tramway: 2-trailer Ce 2/2 Schaffhausen trams
 - MDH: Maidenhead
-  - buses: Martini
+  - buses: Daimler Top-Seater
 - HVH: Haverhill
-  - tramway with 2-trailer Ce 2/2 Schaffhausen trams
+  - tramway: 2-trailer Ce 2/2 Schaffhausen trams
 - PDW: Paddock Wood
+  - tramway: Florianerbahn trams
 - BBR: Boroughbridge
 - SVG: Stevenage
 - ARH: Altrincham
 - KSW: Keswick
 - WTG: Wantage
 - WVC: Wiveliscombe
+  - bus: Grossraum Stattelbus aka the "Wyvern bus" aka the "Dollar Dragon"
 - AYW: Ashley Woulds
 - BCW: Birchwood
 - CLT: Cullompton
@@ -23,22 +25,26 @@
 - PTL: Porthleven
 - SDS: Southend-on-Sea
 - CLN: Colne
-  - buses: Martini
+  - buses: Berliet Skabo
 - CLS: Chester-le-Street
-  - buses: don't remember though I just played
+  - buses: Daimler Top-Seater
 - CHL: Chulmleigh
 - ABN: Ashburton
 
 # Lines
-- GWML: Great Western Mainline -- OKH MDH HVH PDW BBR SVG ARH
-  - LNWR Jumbos G*n* for all *n* in [1,2] (four digits); five Gr1m bogie coaches for 110 pax per rake
-- KWL: Keswick Loop -- MDH WVC WTG KSW BBR
-- WCML: West Coast Mainline -- PDW CLT BCW AYW ARH
-- HLL: Highland Line -- CHL SDS PTL WTG SCN GYS CST AGT ABY
-- MLR: Midland Railway -- CLT BBR ABN CST
+- GWML: Great Western Mainline -- >OKH MDH HVH PDW BBR< SVG ARH
+  - 4 rakes of Gr1m 1-colour bogie-late coaches C-C-C-C-B-E hauled by GWR 4000 class for 132 pax each
+- XCL: Cross-Country Line --  CHL SDS PTL WTG KSW BBR
+- WCML: West Coast Mainline -- >PDW CLT BCW< AYW ARH
+  - 2 rakes of Gr1m 2-colour bogie-late coaches C-C-C-B-E hauled by Ae 4/6 I for 110 pax each
+- HLL: Highland Line -- >MDH WVC WTG< SCN GYS CST AGT ABY
+  - current section single-track with passing at WVC
+  - 2 rakes of 4x BC4 hauled by Ae 4/6 I for 80 pax each
+- MLR: Midland Railway -- >CLT BBR< ABN CST
+  - 2x CLe 2/4
 - RMC: River Maiden Company -- CHL CLN MDH
-  - single track
-  - LNWR Jumbo C*n* for *n*=1; rake of three Gr1m bogie coaches for 66 pax
+  - single track with passing at CLN
+  - 2x PRR MP70 set M-T-T-M for 132 pax each
 - CB: Chester Branch -- CLS CLN
-  - single track, catenary
-  - PRR MP54 for 18 pax
+  - single track
+  - PRR P54 set M-T-T-M for 72 pax
