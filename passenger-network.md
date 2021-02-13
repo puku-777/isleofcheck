@@ -8,6 +8,7 @@
 - PDW: Paddock Wood
   - tramway: Florianerbahn trams
 - BBR: Boroughbridge
+  - Base of operations for Boroughcoach: FBW C40U buses with trailer
 - SVG: Stevenage
 - ARH: Altrincham
 - KSW: Keswick
@@ -19,7 +20,9 @@
 - CLT: Cullompton
 - ABY: Aylesbury
 - AGT: Ashington
+  - served by Boroughcoach
 - CST: Cirencester
+  - served by Boroughcoach
 - GYS: Grays
 - SCN: Scunthorpe
 - PTL: Porthleven
@@ -30,21 +33,22 @@
   - buses: Daimler Top-Seater
 - CHL: Chulmleigh
 - ABN: Ashburton
+  - served by Boroughcoach
 
 # Lines
 - GWML: Great Western Mainline -- >OKH MDH HVH PDW BBR< SVG ARH
-  - 4 rakes of Gr1m 1-colour bogie-late coaches C-C-C-C-B-E hauled by GWR 4000 class for 132 pax each
-- XCL: Cross-Country Line --  CHL SDS PTL WTG KSW BBR
+  - 4 sets of Silberlinge (1-2-2-2-2) with New Haven EP-1 push-pull for 107 pax each
+- XCL: Cross-Country Line --  >CHL SDS PTL WTG KSW BBR<
+  - 3 sets of 4x Budd Big Dome with Ae 4/6^I^ top-and-tail for 120 pax each
 - WCML: West Coast Mainline -- >PDW CLT BCW< AYW ARH
-  - 2 rakes of Gr1m 2-colour bogie-late coaches C-C-C-B-E hauled by Ae 4/6 I for 110 pax each
+  - 2 rakes of Gr1m 2-colour bogie-late coaches C-C-C-B-E hauled by Ae 4/6^I^ for 110 pax each
 - HLL: Highland Line -- >MDH WVC WTG< SCN GYS CST AGT ABY
-  - current section single-track with passing at WVC
-  - 2 rakes of 4x BC4 hauled by Ae 4/6 I for 80 pax each
+  - 2 rakes of 4x Heavyweight 28-1 Parlor hauled by Re 4/4 for 76 pax each
 - MLR: Midland Railway -- >CLT BBR< ABN CST
-  - 2x CLe 2/4
-- RMC: River Maiden Company -- CHL CLN MDH
+  - 2x CLe 2/4 for 18 pax each
+- RMC: River Maiden Company -- >CHL CLN MDH<
   - single track with passing at CLN
   - 2x PRR MP70 set M-T-T-M for 132 pax each
-- CB: Chester Branch -- CLS CLN
+- CB: Chester Branch -- >CLS CLN<
   - single track
-  - PRR P54 set M-T-T-M for 72 pax
+  - 4-car ER1 for 142 pax (consider upgrade to ER2)
